@@ -28,14 +28,17 @@ web site located at https://www.postgresql.org/.
 
 ### Labs
 
-[1-Compiling-sources.md] (1-Compiling-sources.md)
+[1-Compiling-sources.md](1-Compiling-sources.md)
 
-[2-Patching-source-code.md] (2-Patching-source-code.md)
+[2-Patching-source-code.md](2-Patching-source-code.md)
 
-[3-Paged-memory.md] (3-Paged-memory.md)
+[3-Paged-memory.md](3-Paged-memory.md)
 
-[3-Query-plan-analysis.md] (3-Query-plan-analysis.md)
+[3-Query-plan-analysis.md](3-Query-plan-analysis.md)
 
-[4-Btree.md] (4-Btree.md)
+[4-Btree.md](4-Btree.md)
 
-[4-Streaming-replication.md] (4-Streaming-replication.md)
+[4-Streaming-replication.md](4-Streaming-replication.md)
+
+
+
